@@ -1,0 +1,27 @@
+
+.user-container{
+    margin: 10px;
+    background: linear-gradient(to right,#f5ebf1, #be96d1, #beb9d3,#f5ebf1,#be96d1);
+    border:1px solid rgb(133, 67, 123);
+    display: flex;
+    padding: 8px;
+    border-radius: 10px;
+    color:rgb(100, 0, 0)
+}
+.name-container{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+}
+.user-logo-container{
+    height: 50px;
+    width: 50px;
+}
+.user-logo{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.email-container{
+    margin-left: 10px;
+}

@@ -1,0 +1,8 @@
+.home-page-container{
+    background-image: url("https://res.cloudinary.com/muni/image/upload/v1732679051/3334896_wg3wns.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-y: hidden;
+}

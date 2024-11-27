@@ -1,0 +1,58 @@
+.aunth{
+    background-image: url("https://res.cloudinary.com/muni/image/upload/v1732679051/3334896_wg3wns.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        overflow-y: hidden;
+}
+.a-login-container {
+    background-color: white;
+    margin: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 10px;
+    color:#610040;
+   
+}
+
+.a-input-container {
+    border-radius: 7px;
+    border: 1px solid #13009b;
+    margin: 8px;
+    padding: 8px;
+    font-family: roboto;
+    width: 90%;
+    height: 25px;
+    font-size: large;
+}
+
+.a-button {
+    border-radius: 10px;
+    background: linear-gradient(to right, #13009b, rgb(196, 65, 65));
+    color: white;
+    border: transparent;
+    padding: 10px;
+    font-size: x-large;
+    font-family: robotot;
+    margin-top: 20px;
+    width: 90%;
+    margin: 8px;
+}
+.a-heading-container{
+    color:#610040;
+    font-family: roboto;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    border-image: linear-gradient(to right, #13009b, rgb(196, 65, 65)) 1;
+    padding:9px;
+}
+
+
+@media screen and (min-width:500px){
+    .a-login-container {
+            margin-right: 30%;
+            margin-left: 30%;
+    }
+}

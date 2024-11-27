@@ -1,0 +1,47 @@
+.pf-ms-container{
+    display: flex;
+}
+.pf-title{
+    background-color: #1d0041;
+    color:#ffffff;
+    text-align: center;
+    font-size: x-large;
+    font-family: roboto;
+    padding: 5px;
+   border-radius: 10px;
+}
+.pf-user-container{
+    height: 80vh;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+.pf-container{
+background: linear-gradient(to bottom, #09090a, #b287cc);
+    margin: 1%;
+    margin-left: 13%;
+    border-radius: 15px;
+    width: 25%;
+    height: 85vh;
+    border:5px solid #7564f5 ;
+   
+}
+.massages-container{
+
+   background: linear-gradient(to bottom, #475190, white);
+    margin: 1%;
+    margin-left: 1%;
+    border-radius: 15px;
+    width: 40%;
+    height: 85vh;
+    
+}
+
+.mssage{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.mssage-container{
+    background: linear-gradient(to rigth, #c2c2c7, rgb(125, 50, 50));
+}
